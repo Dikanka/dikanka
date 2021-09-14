@@ -1,0 +1,29 @@
+body {
+   text-align: center;
+   margin-top: 20px;
+}
+
+img {
+   border-radius: 50%;
+}
+button {
+   font-family: Bradley Hand, cursive;
+   width: auto;
+   border-radius: 20px;
+   background-color: #730163;
+   color: white;
+   padding: 5px;
+   font-size: calc(14px + 22px);
+   min-width:250px;
+   max-width:525px;
+}
+
+h1 {
+font-family: Courier, monospace;
+}
+
+.info {
+font-family: FreeMono, monospace;
+font-size: 22px;
+margin-bottom: 20px;
+}
